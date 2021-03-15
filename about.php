@@ -24,16 +24,16 @@
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                   <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact with Us</a>
+                    <a class="nav-link" href="contact.php">Contact with Us</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="regiter.html">Sign up</a>
+                    <a class="nav-link" href="regiter.php">Sign up</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="about.html">About Us</a>
+                    <a class="nav-link" href="about.php">About Us</a>
                   </li>
                 </ul>
                 <form class="d-flex">
@@ -47,57 +47,13 @@
         <div class="container">
             <div class="row">
                 <div class="col col-12 col-sm-6 col-lg-6">
-                    <img height="500px" src="https://www.25karats.com/articles/wp-content/uploads/2015/07/wedding-rings1.jpg"></img>
+                    <img height="500px" src="https://www.cpm-int.com/wp-content/uploads/2017/01/aboutus_Insight.jpg"></img>
                 </div>
                 <div class="col col-12 col-sm-3 col-sm-6 col-lg-6">
-                    <table class="table">
-                      <h2><center>REGISTER NOW</center></h2>
-                        <tr>
-                            <td>Bride/Groom Name</td>
-                            <td><input type="text" class="form-control"></td>
-                        </tr>
-                        <tr>
-                            <td>Email Id</td>
-                            <td><input type="email" name="email" id="email"></td>
-                        </tr>
-                        
-                        <tr>
-                            <td>Gender</td>
-                            <td><input type="checkbox" name="Male" id="Male">Male</td>
-                            <td><input type="checkbox" name="Female" id="Female">Female</td>
-                        </tr>
-                        <tr>
-                            <td>Date of Birth</td>
-                            <td><input type="text" class="form-control"></td>
-                        </tr>
-                        <tr>
-                            <td>State</td>
-                            <td><input type="text" class="form-control"></td>
-                        </tr>
-                        <tr>
-                            <td>District</td>
-                            <td><input type="text" class="form-control"></td>
-                        </tr>
-                        <tr>
-                            <td>Mobile No</td>
-                            <td><input type="text" class="form-control"></td>
-                        </tr>
-                        <tr>
-                            <td>Religion</td>
-                            <td><input type="text" class="form-control"></td>
-                        </tr>
-                        <tr>
-                            <td>Caste</td>
-                            <td><input type="text" class="form-control"></td>
-                        </tr>
-                        <tr>
-                            <td></td>
-                            <td><button class="btn btn-danger">SUBMIT</button></td>
-                        </tr>
-                    </table>
+                    <center><h2>WHO WE ARE...</h2></center>
+                    <p><span style="font-size: x-large;">WEDLOCK Matrimony is a pioneer in matrimonial matchmaking services committed to provide 360 degree solutions to all prospective Kerala brides and Kerala grooms. We believe in providing a secure and convenient matrimonial matchmaking experience to our customers. In this generation's fast life, an Indian based matrimonial website, have connected brides and grooms from all around the world to search their life partners. We are one of the fastest growing portals for creating successful marriages. We blend tradition with technology. By choosing WedLock Matrimony you will be served with right guidelines and assistance for your partner search from the desired target group. Your search for the perfect life partner ends here.</span></p>
                 </div>
-
-            
+            </div>
         </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>  
 </body>
